@@ -7,4 +7,3 @@ curl
 wget
 net-tools
 openjdk-8-jdk
-mysql-server

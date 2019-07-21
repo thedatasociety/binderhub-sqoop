@@ -7,3 +7,5 @@ curl
 wget
 net-tools
 openjdk-8-jdk
+
+sqldb-utils
